@@ -3,7 +3,7 @@
 import React, { Component, PropTypes } from 'react';
 import { Image} from 'react-native';
 
-import ViewTransformer from 'react-native-mango-view';
+import ViewTransformer from 'react-native-mango-image-view';
 
 let DEV = false;
 

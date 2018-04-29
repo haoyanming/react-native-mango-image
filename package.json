@@ -1,7 +1,7 @@
 {
   "name": "react-native-mango-image",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.3",
+  "description": "component update for job",
   "main": "library/TransformableImage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/haoyanming/react-native-mango-image.git"
-
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
-    "react-native-mango-view": "0.0.1"
-  }
+    "react-native-mango-image-view": "0.0.1",
+    "user": "0.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/haoyanming/react-native-mango-image/issues"
+  },
+  "homepage": "https://github.com/haoyanming/react-native-mango-image#readme"
 }

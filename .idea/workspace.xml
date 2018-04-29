@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df45fabf-49b8-42e1-8541-4367d00dc5c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/TransformableImage.js" afterPath="$PROJECT_DIR$/library/TransformableImage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,9 +21,58 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="15">
+              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransformableImage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/TransformableImage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <marker date="1524972273000" expanded="true" signature="22:166" ph="..." />
+                <marker date="1524972273000" expanded="true" signature="244:4823" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="270:291" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="314:319" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="346:427" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="451:632" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="489:627" ph="{&quot;pixels&quot;: undefined...}" />
+                <marker date="1524972273000" expanded="true" signature="657:742" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="687:738" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="783:1051" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="843:1047" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="1064:3161" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="1188:1305" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="1334:1458" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="1485:1719" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="1579:1713" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3180:3317" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3257:3311" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3331:3458" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3398:3452" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3474:3680" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3592:3676" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3614:3668" ph="{&quot;width&quot;: width...}" />
+                <marker date="1524972273000" expanded="true" signature="3705:4742" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3846:4624" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3880:4519" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="3956:3973" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4079:4347" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4193:4252" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4258:4333" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4382:4510" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4525:4618" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4630:4738" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4775:4821" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4865:5060" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4896:4918" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4947:5042" ph="{...}" />
+                <marker date="1524972273000" expanded="true" signature="4987:5038" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,6 +85,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/library/TransformableImage.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -47,9 +98,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="745" />
-    <option name="y" value="200" />
+    <option name="x" value="508" />
+    <option name="y" value="437" />
     <option name="width" value="1884" />
     <option name="height" value="914" />
   </component>
@@ -74,6 +128,22 @@
             <path>
               <item name="react-native-mango-image" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-native-mango-image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-mango-image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-mango-image" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-mango-image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-mango-image" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-native-mango-image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-mango-image" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,15 +181,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524969659094</updated>
-      <workItem from="1524969660747" duration="362000" />
+      <workItem from="1524969660747" duration="2394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362000" />
+    <option name="totallyTimeSpent" value="2394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="200" width="1884" height="914" extended-state="0" />
+    <frame x="508" y="437" width="1884" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -152,10 +222,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library/TransformableImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <marker date="1524972273000" expanded="true" signature="22:166" ph="..." />
+            <marker date="1524972273000" expanded="true" signature="244:4823" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="270:291" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="314:319" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="346:427" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="451:632" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="489:627" ph="{&quot;pixels&quot;: undefined...}" />
+            <marker date="1524972273000" expanded="true" signature="657:742" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="687:738" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="783:1051" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="843:1047" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="1064:3161" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="1188:1305" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="1334:1458" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="1485:1719" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="1579:1713" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3180:3317" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3257:3311" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3331:3458" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3398:3452" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3474:3680" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3592:3676" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3614:3668" ph="{&quot;width&quot;: width...}" />
+            <marker date="1524972273000" expanded="true" signature="3705:4742" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3846:4624" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3880:4519" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="3956:3973" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4079:4347" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4193:4252" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4258:4333" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4382:4510" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4525:4618" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4630:4738" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4775:4821" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4865:5060" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4896:4918" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4947:5042" ph="{...}" />
+            <marker date="1524972273000" expanded="true" signature="4987:5038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
           <folding />
         </state>
       </provider>
